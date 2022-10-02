@@ -8,6 +8,12 @@
 <h3>我们的项目</h3>
 MineFurry<br>
 (对，就这点了
+
+<h3>咱的代码质量</h3>
+
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lithiumstudio&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+|---|
+
 <h6>写这个的人的吐槽(千万别让羽枫看见了要不然龙狐要咬人的</h6>
 真的写不出来什么东西了……脑子里跟屎山一样，写出来的全是Shitmountain代码<br>
 羽枫这家伙真的是，一个14岁初中生就搞工作室，还去微软英特尔ARM Oracle拿各种各样的奇葩玩意，<br>
