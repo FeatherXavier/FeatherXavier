@@ -3,7 +3,7 @@
 
 <h3>咱的代码质量</h3>
 
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lithiumstudio&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=featherxavier&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 |---|
 
 真的写不出来什么东西，写出来的全是Shitmountain代码<br>
