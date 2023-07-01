@@ -1,13 +1,49 @@
-<h1>我是羽枫</h1>
-偶尔消失是因为在上学或者心情不好，请谅解
-
-<h3>咱的代码质量</h3>
-
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=featherxavier&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-|---|
-
-真的写不出来什么东西，写出来的全是Shitmountain代码<br>
-羽枫这家伙真的是，才14就去微软英特尔ARM Oracle拿各种各样的奇葩玩意，<br>
-每天在群里和群友吹水，太________了(这个地方请自行脑补，甚至可以提PR，欸嘿<br>
+<h1>我是羽枫,这里是我最详细的自我介绍</h1>
+<br>
+<h2>基本信息</h2>
+性别:雄性<br>
+生日:2008/4/25<br>
+QQ:2187205513<br>
+Bilibili:<link>https://space.bilibili.com/617949865<br>
+兽圈人,来自四川,设定是一只龙狐<br>
+单身<br>
+<br>
+<h2>性取向与有关的看法</h2>
+异性恋<br>
+不歧视,支持并关心LGBT群体<br>
+不反对性行为,毕竟是个人选择<br>
+<br>
+<h2>兴趣爱好</h2>
+闲的没事干时打会游戏:Minecraft,Cities Skylines等<br>
+偶尔写点屎山代码:C/C++,C#,Java,Python,Rust,Dart等语言<br>
+还有摄影,靠着一台EOS 600D和一支EFS 18-55镜头走天下<br>
+剩下就是些杂七杂八的东西了,没啥好说的x<br>
+<br>
+<h2>委托</h2>
+<h3>软件开发</h3>
+Windows平台:定价50CNY,每10行代码(不含注释,空行和作用域符号)计1CNY,视复杂程度及API/框架调用情况上浮10%<br>
+Android平台:暂不支持<br>
+无OHOS平台/iOS平台支持计划<br>
+<h3>方案整合</h3>
+电子兽牌:即将推出<br>
+兽装电子眼睛:定价200CNY,定制硬件成本按125%计<br>
+兽装电子系统:即将推出<br>
+<h3>软件逆向工程</h3>
+要求:限定Windows/Linux/Android平台的应用程序或游戏<br>
+定价50CNY<br>
+解包非加密资源:每5MB数据1CNY<br>
+反编译:每100KB数据1CNY,部分反混淆每100KB加4CNY<br>
+解包加密资源:每20KB数据1CNY<br>
+<br>
+<h2>部分未来计划</h2>
+2023年暑期:IMFurry即时通讯系统,FeatherTrack++算法<br>
+以上均非开源项目<br>
+没有了,不建议长期投资本人(?<br>
+<br>
+<h2>一点说明</h2>
+本人精神状态不太稳定,所以指不定哪天就断更了x,但是我会尽力把我应做的做好,除非迫不得已就重开人生吧uwu<br>
+<br>
+放个小福利:
 <img src="http://i0.hdslb.com/bfs/emote/6a997106af5bf490f22c80a7acf3be813ee755fc.png"><br>
-最后再BB一句:羽枫想找个CP!
+B站消失已久的狗头表情<br>
+单身小龙狐在线找CP(?
