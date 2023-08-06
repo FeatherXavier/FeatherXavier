@@ -4,6 +4,8 @@
 性别:雄性<br>
 生日:2008/4/25<br>
 QQ:2187205513<br>
+X:@FeatherXavier<br>
+X(NSFW):随缘刷吧(<br>
 Bilibili:<link>https://space.bilibili.com/617949865<br>
 兽圈人,来自四川,设定是一只龙狐<br>
 单身<br>
