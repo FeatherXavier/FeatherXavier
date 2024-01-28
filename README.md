@@ -7,6 +7,7 @@ QQ:2187205513<br>
 X:@FeatherXavier<br>
 X(NSFW):随缘刷吧(<br>
 Bilibili:<link>https://space.bilibili.com/617949865<br>
+Telegram:@FeatherXavier<br>
 兽圈人,来自四川,设定是一只龙狐<br>
 单身<br>
 <br>
@@ -38,8 +39,7 @@ Android平台:暂不支持<br>
 解包加密资源:每20KB数据1CNY<br>
 <br>
 <h2>部分未来计划</h2>
-2023年暑期:IMFurry即时通讯系统,FeatherTrack++算法<br>
-以上均非开源项目<br>
+2024年折腾折腾硬件<br>
 没有了,不建议长期投资本人(?<br>
 <br>
 <h2>一点说明</h2>
